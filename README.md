@@ -1,12 +1,5 @@
 
 
-## Features
-- **Real-time Chat:** Farmers can connect with experts and have real-time conversations.
-- **Expert Advice:** Experts can provide advice, solutions, and guidance to farmers.
-- **User Authentication:** Secure user authentication using JWT (JSON Web Tokens).
-- **MongoDB Database:** User data and chat history are stored in a MongoDB database.
-- **Responsive Design:** The application is designed to be responsive across various devices.
-
 ## Project Structure
 - **backend:** Contains the Node.js server code for handling authentication, chat, and database interactions.
   - **server.js:** Express server setup with API endpoints and socket.io integration.
