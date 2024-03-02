@@ -1,3 +1,8 @@
+## Features
+- **Real-time Chat:**People can connect with friends and have real-time conversations.
+- **User Authentication:** Secure user authentication using JWT (JSON Web Tokens).
+- **MongoDB Database:** User data and chat history are stored in a MongoDB database.
+- **Responsive Design:** The application is designed to be responsive across various devices.
 
 
 ## Project Structure
@@ -13,6 +18,7 @@
   - **src/App.css:** Styles for the application.
 
 ## Dependencies
+
 
 ### Backend
 - **express:** Web application framework for Node.js.
